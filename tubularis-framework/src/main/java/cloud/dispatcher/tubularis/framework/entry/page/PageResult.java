@@ -1,10 +1,10 @@
 package cloud.dispatcher.tubularis.framework.entry.page;
 
-import lombok.*;
-
 import java.io.Serializable;
 import java.util.Collections;
 import java.util.List;
+
+import lombok.*;
 
 @AllArgsConstructor
 @ToString

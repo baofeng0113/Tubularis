@@ -1,8 +1,8 @@
 package cloud.dispatcher.tubularis.framework.entry.rest;
 
-import lombok.*;
-
 import java.io.Serializable;
+
+import lombok.*;
 
 @AllArgsConstructor
 @ToString
